@@ -125,3 +125,8 @@
  - [ ] Compiler-specific: CFG, dominators, SSA
  - [ ] Mock interviews with compiler engineers
  - [ ] Resource: Compiler Design interview questions + LeetCode
+
+
+## Resources:
+- OpenCL: https://github.com/mikeroyal/OpenCL-Guide#OpenCL-learning-resources
+- OpenCL Course: https://handsonopencl.github.io/
