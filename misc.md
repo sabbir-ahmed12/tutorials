@@ -21,6 +21,20 @@
 ## Compiler and Programming Language Implementation
 [1] Advanced Compilers: The Self-Guided Online Course - (https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided/)
 
+## C++
+Learn C++, CMake, CPack (for packaging), CTest(testing), CUDA, OpenCL(for programming in hetergeneous platform), CI/CD, Docker and Kubernetes
+
+### Possible Projects:
+- Write parallel NUFFT to perform reconstruction in parallel for multiple coils.
+  - Write CUDA kernel and profile using NSight
+  - Write multithreaded reconstruction
+  - Build, test and package a reconstruction algorithm
+
+[1] Beginner to Advanced - (https://courses.mshah.io/enrollments)
+[2] Managing C++ Projects Using CMake - (https://www.studyplan.dev/cmake) or Use the book mastering CMake (https://cmake.org/cmake/help/book/mastering-cmake/index.html)
+[3] Learn CUDA programming
+[3] C++ Multithreading and Parallel Programming - (Part 1 - https://www.youtube.com/watch?v=S5LNZcjRkpw, Part 2 - https://www.youtube.com/watch?v=MXKFq7zpbqk)
+
 
 ## JOB DESCRIPTION
 1. PhD Research Intern (System Software and I/O Architecture)
